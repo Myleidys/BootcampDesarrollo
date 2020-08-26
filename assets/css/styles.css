@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+    display: block;
+    background-color: rgb(25, 5, 51);
+}
+
+
+.img {
+    width: 300px;
+    height: 250px;
+    margin: auto;
+    display: block;
+    border-radius: 130px;
+    border: 10px solid rgb(228, 228, 228);
+}
+
+.texto {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: azure;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.general {
+    text-align: center;
+    padding-top: 40px;
+
+
+}
